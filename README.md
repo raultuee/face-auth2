@@ -12,11 +12,13 @@
 
 ### Frontend 
 
+- cd frontend
 - npm i
 - npm run dev
 
 ### Backend (API)
 
+- cd api
 - npm i
 - nodemon server.js
 
