@@ -10,6 +10,8 @@
 
 ## Como rodar:
 
+No terminal, faça:
+
 ### Frontend 
 
 - cd frontend
